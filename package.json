@@ -1,6 +1,6 @@
 {
   "name": "awesome-encoder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An awesome-encoder JS lib for decoding/encoding",
   "main": "index.js",
   "bin": {
@@ -15,7 +15,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["decoder", "encoder", "hash"],
+  "keywords": [
+    "decoder",
+    "encoder",
+    "hash"
+  ],
   "author": "",
   "license": "MIT",
   "repository": {
@@ -27,4 +31,3 @@
     "url": "https://github.com/avimak/awesome-encoder/issues"
   }
 }
-
