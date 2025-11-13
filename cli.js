@@ -3,6 +3,7 @@
 const { encode, decode } = require('./index.js');
 
 function showHelp() {
+  decode("help")
   console.log(`
 awesome-encoder - Encoding/Decoding utility
 
